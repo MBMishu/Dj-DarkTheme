@@ -1,0 +1,17 @@
+*.org
+*.sav
+*.new
+*.drjava
+*.txt
+*.log
+*~
+*.old
+*.new
+*.mine
+*.alt
+codecoverage
+drjava/classes
+drjava/drjava.jar
+drjava/build.xml.*
+drjava/coverage_report
+scratch
